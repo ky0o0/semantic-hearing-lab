@@ -44,10 +44,12 @@ Assets are normalized and exported as stereo MP3; the browser adds moving stereo
 
 Repository: https://github.com/ky0o0/semantic-hearing-lab
 
-The repository owner created the repository and the project has been pushed to `main`. Enabling Pages through the current integration returned HTTP 403 (`Resource not accessible by integration`). The owner must select **GitHub Actions** under repository **Settings → Pages → Build and deployment → Source**.
+GitHub Pages is configured to deploy through GitHub Actions.
+
+Website: https://ky0o0.github.io/semantic-hearing-lab/
 
 The included workflow tests and builds on pushes to `main`, then uploads and deploys `dist`. It can also be started manually from Actions. Vite's relative base supports project Pages paths. Check the deployment job's URL and actual public HTTP response before reporting deployment success.
 
 ## Verification and limitations
 
-See [TESTING.md](TESTING.md). Unit tests validate the state model and audio-clock/gain contracts using a mocked AudioContext; they are not a substitute for real browser or auditory tests. No usable browser-interaction tool was available in the task environment, so desktop/mobile interaction, touch gestures, tutorial flow and subjective recognition remain unverified. Public GitHub Pages verification is pending Pages enablement by the repository owner.
+See [TESTING.md](TESTING.md). Unit tests validate the state model and audio-clock/gain contracts using a mocked AudioContext; they are not a substitute for real browser or auditory tests. No usable browser-interaction tool was available in the task environment, so desktop/mobile interaction, touch gestures, tutorial flow and subjective recognition remain unverified. Deployment status is available in the repository Actions tab.
