@@ -42,17 +42,12 @@ Assets are normalized and exported as stereo MP3; the browser adds moving stereo
 
 ## GitHub Pages deployment
 
-The requested creation of `semantic-hearing-lab` failed: GitHub returned `Resource not accessible by integration (createRepository)`. No remote repository or public deployment was created, and no other repository was modified.
+Repository: https://github.com/ky0o0/semantic-hearing-lab
 
-With a credential allowed to create repositories and enable Pages:
+The repository owner created the repository and the project has been pushed to `main`. Enabling Pages through the current integration returned HTTP 403 (`Resource not accessible by integration`). The owner must select **GitHub Actions** under repository **Settings → Pages → Build and deployment → Source**.
 
-```sh
-gh repo create semantic-hearing-lab --public --source=. --remote=origin --push
-gh api --method POST repos/OWNER/semantic-hearing-lab/pages -f build_type=workflow
-```
-
-Replace `OWNER` with the actual repository owner. In repository Settings → Pages select **GitHub Actions** if needed. The included workflow tests and builds on pushes to `main`, then uploads and deploys `dist`. Vite's relative base supports project Pages paths. Check the deployment job's URL and actual public HTTP response before reporting deployment success.
+The included workflow tests and builds on pushes to `main`, then uploads and deploys `dist`. It can also be started manually from Actions. Vite's relative base supports project Pages paths. Check the deployment job's URL and actual public HTTP response before reporting deployment success.
 
 ## Verification and limitations
 
-See [TESTING.md](TESTING.md). Unit tests validate the state model and audio-clock/gain contracts using a mocked AudioContext; they are not a substitute for real browser or auditory tests. No usable browser-interaction tool was available in the task environment, so desktop/mobile interaction, touch gestures, tutorial flow and subjective recognition remain unverified. Public GitHub Pages verification is blocked by repository creation permission.
+See [TESTING.md](TESTING.md). Unit tests validate the state model and audio-clock/gain contracts using a mocked AudioContext; they are not a substitute for real browser or auditory tests. No usable browser-interaction tool was available in the task environment, so desktop/mobile interaction, touch gestures, tutorial flow and subjective recognition remain unverified. Public GitHub Pages verification is pending Pages enablement by the repository owner.

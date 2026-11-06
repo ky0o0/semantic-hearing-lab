@@ -5,7 +5,7 @@
 - `npm run build`: TypeScript strict compilation and Vite production bundle.
 - `npm test`: eight automated tests covering the exact 20-class inventory; bundled audio/provenance/envelope presence; saved-state sanitization and three-source limit; context-driven background selection; event overlap and bounds; multiple-target gain selection; translation-key parity and tutorial text counts; mode/target changes preserving source identity, clock and paused state; speed, seeking and loop-off after wrap.
 - `ffprobe`: all 23 MP3s contain two channels and approximately five seconds of audio (including MP3 padding). Preparation decoded, normalized and measured every asset; envelopes are nonzero.
-- Repository creation attempted with authenticated GitHub CLI. GitHub denied `createRepository` with `Resource not accessible by integration`.
+- The owner created the GitHub repository; pushing the complete project to `main` succeeded. The current integration cannot enable Pages: HTTP 403, `Resource not accessible by integration`.
 
 ## Not verified
 
