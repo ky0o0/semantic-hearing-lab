@@ -1,0 +1,163 @@
+[
+  {
+    "id": "alarm_clock",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-13613-A-37.wav",
+    "attribution": "- [1-13613-A.ogg]: clip derived from alarm clock.aif (http://www.freesound.org/people/hookhead/sounds/13613/) by hookhead [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "baby_cry",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-187207-A-20.wav",
+    "attribution": "- [1-187207-A.ogg]: clip derived from More baby noises... (http://www.freesound.org/people/k3pp/sounds/187207/) by k3pp [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "birds_chirping",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/2-122616-A-14.wav",
+    "attribution": "- [2-122616-A.ogg]: clip derived from Song thrush (pevchiy drozd) (http://www.freesound.org/people/urupin/sounds/122616/) by urupin [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "car_horn",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-17124-A-43.wav",
+    "attribution": "- [1-17124-A.ogg]: clip derived from car sharp horn.wav (http://www.freesound.org/people/cognito%20perceptu/sounds/17124/) by cognito perceptu [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "cat",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/2-110010-A-5.wav",
+    "attribution": "- [2-110010-A.ogg]: clip derived from cat meow II (http://www.freesound.org/people/tuberatanka/sounds/110010/) by tuberatanka [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "cock_a_doodle_doo",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-27724-A-1.wav",
+    "attribution": "- [1-27724-A.ogg]: clip derived from citadel park gand.wav (http://www.freesound.org/people/philippe%20b/sounds/27724/) by philippe b [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "computer_typing",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-62594-A-32.wav",
+    "attribution": "- [1-62594-A.ogg]: clip derived from Keyboard.wav (http://www.freesound.org/people/bsumusictech/sounds/62594/) by bsumusictech [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "cricket",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-59102-A-13.wav",
+    "attribution": "- [1-59102-A.ogg]: clip derived from emmentaler crickets.wav (http://www.freesound.org/people/Zozzy/sounds/59102/) by Zozzy [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "dog",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-100032-A-0.wav",
+    "attribution": "- [1-100032-A.ogg]: clip derived from rose_bark.wav (http://www.freesound.org/people/nfrae/sounds/100032/) by nfrae [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "door_knock",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-103995-A-30.wav",
+    "attribution": "- [1-103995-A.ogg]: clip derived from Bassdrum_Shell_Ticks.aif (http://www.freesound.org/people/RutgerMuller/sounds/103995/) by RutgerMuller [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "glass_breaking",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/2-112213-A-39.wav",
+    "attribution": "- [2-112213-A.ogg]: clip derived from Window breaking.MP3 (http://www.freesound.org/people/m1a2t3z4/sounds/112213/) by m1a2t3z4 [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "gunshot",
+    "source": "scripts/prepare_audio.py",
+    "license": "CC0-1.0",
+    "attribution": "Original procedural synthesis for Semantic Hearing Lab.",
+    "changes": "Normalized and converted to stereo MP3."
+  },
+  {
+    "id": "hammer",
+    "source": "scripts/prepare_audio.py",
+    "license": "CC0-1.0",
+    "attribution": "Original procedural synthesis for Semantic Hearing Lab.",
+    "changes": "Normalized and converted to stereo MP3."
+  },
+  {
+    "id": "music",
+    "source": "scripts/prepare_audio.py",
+    "license": "CC0-1.0",
+    "attribution": "Original procedural synthesis for Semantic Hearing Lab.",
+    "changes": "Normalized and converted to stereo MP3."
+  },
+  {
+    "id": "ocean",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/2-125966-A-11.wav",
+    "attribution": "- [2-125966-A.ogg]: clip derived from Waves in sea.wav (http://www.freesound.org/people/Ryding/sounds/125966/) by Ryding [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "outdoor",
+    "source": "scripts/prepare_audio.py",
+    "license": "CC0-1.0",
+    "attribution": "Original procedural synthesis for Semantic Hearing Lab.",
+    "changes": "Normalized and converted to stereo MP3."
+  },
+  {
+    "id": "room",
+    "source": "scripts/prepare_audio.py",
+    "license": "CC0-1.0",
+    "attribution": "Original procedural synthesis for Semantic Hearing Lab.",
+    "changes": "Normalized and converted to stereo MP3."
+  },
+  {
+    "id": "singing",
+    "source": "scripts/prepare_audio.py",
+    "license": "CC0-1.0",
+    "attribution": "Original procedural synthesis for Semantic Hearing Lab.",
+    "changes": "Normalized and converted to stereo MP3."
+  },
+  {
+    "id": "siren",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-54084-A-42.wav",
+    "attribution": "- [1-54084-A.ogg]: clip derived from civildefense.wav (http://www.freesound.org/people/guitarguy1985/sounds/54084/) by guitarguy1985 [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "speech",
+    "source": "https://librosa.org/data/audio/5703-47212-0000.ogg",
+    "license": "CC BY 4.0",
+    "attribution": "LibriSpeech (Panayotov et al., 2015), Ashiel Mystery chapter 2, narrated by Garth Comira. LibriSpeech 5703-47212-0000. https://www.openslr.org/12/",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "street",
+    "source": "scripts/prepare_audio.py",
+    "license": "CC0-1.0",
+    "attribution": "Original procedural synthesis for Semantic Hearing Lab.",
+    "changes": "Normalized and converted to stereo MP3."
+  },
+  {
+    "id": "thunderstorm",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-101296-A-19.wav",
+    "attribution": "- [1-101296-A.ogg]: clip derived from thunderstorm.wav (http://www.freesound.org/people/raoul_slayer/sounds/101296/) by raoul_slayer [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  },
+  {
+    "id": "toilet_flush",
+    "source": "https://raw.githubusercontent.com/karoldvl/ESC-50/master/audio/1-28005-A-18.wav",
+    "attribution": "- [1-28005-A.ogg]: clip derived from Flush1.wav (http://www.freesound.org/people/Konamiuss/sounds/28005/) by Konamiuss [CC0]",
+    "license": "CC BY-NC 3.0 (ESC-50 compilation); underlying recording license in attribution",
+    "changes": "Cropped, normalized, resampled and converted to stereo MP3."
+  }
+]
